@@ -1,0 +1,25 @@
+:root {
+  --color-primary: #2d7ff9;
+  --color-primary-soft: #7dafff;
+  --color-primary-tint: rgba(45, 127, 249, 0.1);
+  --color-bg: #ffffff;
+  --color-surface: #f8f9fa;
+  --color-surface-strong: #edf4ff;
+  --color-title: #2d3136;
+  --color-body: #495057;
+  --color-sub: #aea9b0;
+  --color-line: rgba(0, 0, 0, 0.08);
+  --color-shadow: rgba(18, 32, 66, 0.12);
+  --color-gray-alpha: rgba(85, 85, 85, 0.5);
+  --radius-xl: 24px;
+  --radius-lg: 16px;
+  --radius-md: 12px;
+  --radius-pill: 999px;
+  --font-family:
+    "Pretendard Variable", Pretendard, "Apple SD Gothic Neo", "Noto Sans KR",
+    sans-serif;
+  --letter-tight: -0.03em;
+  --content-width: 393px;
+  --side-padding: 24px;
+  --bottom-nav-height: 84px;
+}
